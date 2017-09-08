@@ -1,3 +1,4 @@
 /Twilio-Clarifai
 appenv.py
 *.pyc
+.vs

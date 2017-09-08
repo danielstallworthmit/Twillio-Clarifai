@@ -10,4 +10,4 @@ def get_relevant_tags(image_url):
         tag_urls.append(concept['name'])
     return tag_urls
 
-print('\n'.join(get_relevant_tags('https://www.royalcanin.com/~/media/Royal-Canin/Product-Categories/dog-medium-landing-hero.ashx')))
+# print('\n'.join(get_relevant_tags('piclocation')))
